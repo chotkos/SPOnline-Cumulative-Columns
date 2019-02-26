@@ -1,5 +1,6 @@
 ## 
 This solution is strictly connected to my blogpost [PL]
+
 https://sharepointpoland.wordpress.com/2019/02/22/sharepoint-field-customizer/
 
 
