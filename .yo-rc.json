@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.7.0",
+    "libraryName": "ext-test",
+    "libraryId": "2ed131d3-6a8a-4d26-a246-0c474538bfeb",
+    "packageManager": "npm",
+    "componentType": "extension",
+    "extensionType": "FieldCustomizer"
+  }
+}

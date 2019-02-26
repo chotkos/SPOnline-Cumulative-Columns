@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ext-test-client-side-solution",
+    "id": "2ed131d3-6a8a-4d26-a246-0c474538bfeb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "features": [
+      {
+        "title": "Cumulative Column for Personal Data",
+        "description": "Deploys a custom column visual representation for Personal Data",
+        "id": "cc384c67-7602-42a0-8794-27082f908baf",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "elements.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ext-test.sppkg"
+  }
+}

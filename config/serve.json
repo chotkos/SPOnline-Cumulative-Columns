@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://chotkos.sharepoint.com/Lists/Flights/AllItems.aspx",
+      "fieldCustomizers": {
+        "VIP": {
+          "id": "5537c883-b18d-4f58-a5e0-39f54a63769b",
+          "properties": {
+            "sampleText": "Value"
+          }
+        },
+        "Guard": {
+          "id": "5537c883-b18d-4f58-a5e0-39f54a63769b",
+          "properties": {
+            "sampleText": "Value"
+          }
+        }
+      }
+    }
+  }
+}
+

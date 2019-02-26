@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <Field ID="{5c26e3be-7dad-48fa-ba74-0a41bb1c35d0}"
+            Name="CumulativeColumn"
+            DisplayName="PersonalData"
+            Type="Text" 
+            Required="FALSE"
+            Group="SPFx Columns"
+            ClientSideComponentId="5537c883-b18d-4f58-a5e0-39f54a63769b">
+    </Field>
+</Elements>
